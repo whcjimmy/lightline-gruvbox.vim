@@ -9,7 +9,7 @@ Installation
 ----------------
 Use your favourite plugin manager.
 ```vim
-Plug 'shinchu/lightline-gruvbox.vim'
+Plug 'whcjimmy/lightline-gruvbox.vim'
 ```
 Add the following lines to your `.vimrc`.
 ```vim
